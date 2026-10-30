@@ -36,5 +36,5 @@ generator. Don't edit them by hand; rerun the generator.
 | `D` | door: a wall that warps the player who walks north into it |
 | `C` | cave entrance: floor that warps the player who steps onto it |
 | `L` | ladder or escalator: floor that warps the player who steps onto it |
-| `^` `v` `<` `>` | exit mat: floor that warps the player standing on it who walks the arrow's way |
+| `^` `v` `<` `>` | exit mat, or stairs at the side of a room: floor that warps the player standing on it who walks the arrow's way |
 | `n` / `s` / `e` / `w` | can't be entered moving south / north / west / east, or left moving north / south / east / west |

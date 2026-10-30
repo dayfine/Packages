@@ -116,6 +116,11 @@
             "name": "pc",
             "x": 11,
             "y": 2
+        },
+        {
+            "name": "nurse_front",
+            "x": 7,
+            "y": 4
         }
     ],
     "flag_sets": []
