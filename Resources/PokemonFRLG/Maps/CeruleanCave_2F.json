@@ -196,5 +196,7 @@
             "wander_y": 0
         }
     ],
-    "connections": []
+    "connections": [],
+    "points": [],
+    "flag_sets": []
 }

@@ -158,5 +158,13 @@
             "wander_y": 0
         }
     ],
-    "connections": []
+    "connections": [],
+    "points": [
+        {
+            "name": "mewtwo",
+            "x": 7,
+            "y": 12
+        }
+    ],
+    "flag_sets": []
 }

@@ -276,5 +276,16 @@
             "offset": 12,
             "map": "Route24"
         }
+    ],
+    "points": [],
+    "flag_sets": [
+        {
+            "name": "after_hall_of_fame",
+            "flags": [
+                "FLAG_HIDE_CERULEAN_CAVE_GUARD",
+                "FLAG_HIDE_CERULEAN_RIVAL",
+                "FLAG_HIDE_CERULEAN_ROCKET"
+            ]
+        }
     ]
 }

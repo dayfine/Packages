@@ -110,5 +110,13 @@
             "wander_y": 0
         }
     ],
-    "connections": []
+    "connections": [],
+    "points": [
+        {
+            "name": "pc",
+            "x": 11,
+            "y": 2
+        }
+    ],
+    "flag_sets": []
 }

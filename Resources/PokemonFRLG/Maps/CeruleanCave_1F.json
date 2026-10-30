@@ -176,5 +176,13 @@
             "wander_y": 0
         }
     ],
-    "connections": []
+    "connections": [],
+    "points": [
+        {
+            "name": "entrance",
+            "x": 33,
+            "y": 21
+        }
+    ],
+    "flag_sets": []
 }
